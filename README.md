@@ -28,5 +28,21 @@ normal text
 | id | name | age | status |
 | -- | -----| --- | ------ |
 | 01 | Heang| 505 | True   |
-| 02 | Rady | 300 | True  |
+| 02 | Rady | 300 | True   |
 | 03 | Him  | 400 | True   |
+
+## Block Quote
+> This markdown block qoute
+
+## List
+- List 1
+- List 2
+- List 3
+  - sub 1
+  - sub 2
+
+
+1. List 1
+1. List 2
+1. List 3
+1. List 4
