@@ -49,7 +49,7 @@ normal text
    2. sub 2
 
 ## Image 
-![Dashboard](![alt text](image.png))
+![Dashboard](image.png)
 
 ## Link
 CSS Framework [Boostrap](https://getbootstrap.com/)
@@ -79,4 +79,7 @@ composer install
 
 ## Badge
 
-[![app](https://img.shields.io/badge/PNC-green)] (https://www.pinterest.com/)
+[![app](https://img.shields.io/badge/PNC_Family-tutoria-green)](https://www.pinterest.com/)
+
+## Contributor
+- [@sokyangLakk-student at PNC](https://github.com/sokyangLakk/New-project)
